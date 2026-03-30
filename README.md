@@ -15,9 +15,11 @@ Data Cleaning (removal of duplicates, formatting)
 Pivot Tables for aggregation and summarization
 Calculated fields and helper columns where necessary
 Dashboard creation using charts and slicers
+
 Dashboard Preview
 ![Coffee Sales Dashboard](Coffee_Sales_Dashboard.png)
 This dashboard provides an interactive view of coffee sales performance across products, time, and customer demand patterns.
+
 Key Insights
 From the analysis, several insights emerged:
 Latte is the best-selling coffee and contributes the highest share of revenue.
