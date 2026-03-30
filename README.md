@@ -16,7 +16,7 @@ Pivot Tables for aggregation and summarization
 Calculated fields and helper columns where necessary
 Dashboard creation using charts and slicers
 
-![Coffee Sales Dashboard](Coffee Sales Dashboard.png)
+![Coffee Sales Dashboard](Coffee_Sales_Dashboard.png)
 
 Key Insights
 From the analysis, several insights emerged:
